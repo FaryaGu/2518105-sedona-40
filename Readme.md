@@ -2,7 +2,7 @@
 
 * Студент: [Фаря](https://up.htmlacademy.ru/htmlcss/40/user/2518105).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
-[Мой проект Седона](https://faryagu.github.io/2518105-sedona-40/)
+* Сайт: [Мой проект Седона](https://faryagu.github.io/2518105-sedona-40/)
 
 ---
 
